@@ -1,28 +1,17 @@
-![Contribute to Scroll](./assets/banner.png)
+# Scroll-origins-website-correction
+A correction on scroll origins NFT website and qna bots reply to people on website related to rarity 
+The rarity to the scroll origin nft is not shown on website
 
-[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/scroll-tech/contribute-to-scroll/badge)](https://www.gitpoap.io/gp/1057)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Scroll_ZKP?style=social)](https://twitter.com/Scroll_ZKP)
-[![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/scroll)
+this was the previous image 
 
-This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
 
-## How to Contribute
+ ![image](https://github.com/Caltriz/Scroll-origins-website-correction/assets/130164305/02b6263d-2889-45c0-b3e2-e2e3b8e122db)
 
-Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page for a guide on how to contribute.
 
-## Contributions
 
-### Integrations
 
-Scroll has been integrated on the following projects:
+I created new images showing proper rarity
 
-- [ethereum-lists/chains](https://github.com/ethereum-lists/chains/)
 
-## About Scroll
-
-Scroll is an open source zkEVM Layer 2 that helps scaling Ethereum. Scroll is bytecode equivalent with the EVM, which makes possible native compatibility for existing Ethereum applications. Learn more about Scroll in [the docs](https://docs.scroll.io/).
-
-## Contributors
-<a href="https://github.com/scroll-tech/contribute-to-scroll/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scroll-tech/contribute-to-scroll" />
-</a>
+ ![scroll origin (2)](https://github.com/Caltriz/Scroll-origins-website-correction/assets/130164305/f1ff2e48-ee2a-42a7-aa8c-7701dae194ba)
+![scroll origin (1)](https://github.com/Caltriz/Scroll-origins-website-correction/assets/130164305/aec63066-419f-4543-bee0-5cbfcf0c4450)
